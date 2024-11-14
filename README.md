@@ -5,11 +5,11 @@
 <h3 align="center">🎓 About Me</h3>
 
 <div align="center">
-    🌍 **I'm a student at Suranaree University of Technology in Thailand.**<br/>
-    🖌️ **Majoring in Digital Technology under the Digital Arts and Sciences Division.**<br/>
-    💼 **Aspiring Web Developer on a journey to master the digital world.**
+    🌍 <B>I am currently enrolled at Suranaree University of Technology in Thailand.</B><br/>
+    🖌️ <B>Majoring in Digital Technology under the Digital Arts and Sciences Division.</B><br/>
+    💼 <B>Aspiring Web Developer on a journey to master the digital world.</B>
 </div>
-
+<br/>
 <div align="center"> 
     <a href="https://www.linkedin.com/in/phittiphong-phansaensao" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
