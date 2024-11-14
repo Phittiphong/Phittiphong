@@ -14,7 +14,7 @@
  
  ⚡ **Digital Arts and Sciences Division, Digital Technology Program 💻**
 
-⚡ **Career Path > Security Analyst 🔒** 
+⚡ **Career Path > Web Developer 🔒** 
 
 
 
@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,cpp,java,wordpress" /></br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,eclipse,firebase,github,kali,ubuntu,vscode," /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,react,solidity" /></br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,eclipse,firebase,github,kali,ubuntu,vscode,wordpress,ps,linkedin,figma,bootstrap,androidstudio" /></br>
 
 </div>
 
